@@ -1,0 +1,4 @@
+int32 light_point_x
+int32 light_point_y
+int32 target_point_x
+int32 target_point_y

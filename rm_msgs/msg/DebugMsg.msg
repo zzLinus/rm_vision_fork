@@ -1,0 +1,2 @@
+int32 now_target_point_x
+int32 now_target_point_y
