@@ -7,8 +7,8 @@
 /serial_driver:
   ros__parameters:
     timestamp_offset: 0.006
-    device_name: /dev/ttyACM0
-    baud_rate: 115200
+    device_name: /dev/ttyACM1
+    baud_rate: 2000000
     flow_control: none
     parity: none
     stop_bits: "1"
